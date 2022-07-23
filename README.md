@@ -1,4 +1,4 @@
-# Estudos POO
+# Estudos Programação Orientada a Objetos
 
 ## Repositório de estudos de POO em Java
 
