@@ -1,4 +1,4 @@
-# Estudospoo
+# Estudos POO
 
 ## Repositório de estudos de POO em Java
 
